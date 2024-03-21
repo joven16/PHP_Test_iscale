@@ -30,6 +30,8 @@ This project refactors a simple application using OOP and SOLID principles with 
 
 \*Code Readability: Enhanced code readability by using descriptive variable and method names, contributing to better comprehension and maintainability.
 
+<img width="341" alt="image" src="https://github.com/joven16/PHP_Test_iscale/assets/39550344/a202faa7-1c4e-4a37-ba65-7f31f6e449be">
+
 ## How to Use
 
 1. Clone the repository.
