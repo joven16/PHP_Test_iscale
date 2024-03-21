@@ -1,0 +1,20 @@
+{
+    "name": "vendor/lusterio",
+    "description": "Technical Assesment Iscale",
+    "type": "exam",
+    "authors": [
+        {
+            "name": "Joven Lusterio",
+            "email": "jovenlusterio16@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Controllers\\": "src/Controllers/",
+            "Models\\": "src/Models/",
+            "Views\\": "src/Views/",
+            "Repositories\\": "src/Repositories/"
+        }
+    }
+}
