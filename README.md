@@ -4,8 +4,8 @@
 
   - create an empty database named "phptest" on your MySQL server
   - import the dbdump.sql in the "phptest" database
-  - put your MySQL server credentials in the constructor of DB class
-  - you can test the demo script in your shell: "php index.php"
+  - put your MySQL server credentials in config/database.php
+  - you can test the demo script in your browser and go to "localhost/PHP_Test_iscale/public/index.php"
 
 ## 2. Expectations
 
